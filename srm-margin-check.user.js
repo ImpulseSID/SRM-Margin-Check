@@ -6,7 +6,7 @@
 // @author       ImpulseSID
 // @match        https://sp.srmist.edu.in/*
 // @match        https://academia.srmist.edu.in/*
-// @icon         https://lh3.googleusercontent.com/A-p-k-2-p-E-p-E-A=w128-h128-e365-s0
+// @icon         https://raw.githubusercontent.com/ImpulseSID/SRM-Margin-Check/main/icon.svg
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/ImpulseSID/SRM-Margin-Check/main/srm-margin-check.user.js
 // @updateURL    https://raw.githubusercontent.com/ImpulseSID/SRM-Margin-Check/main/srm-margin-check.user.js
