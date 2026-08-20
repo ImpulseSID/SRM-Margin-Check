@@ -8,6 +8,8 @@
 // @match        https://academia.srmist.edu.in/*
 // @icon         https://lh3.googleusercontent.com/A-p-k-2-p-E-p-E-A=w128-h128-e365-s0
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/ImpulseSID/SRM-Margin-Check/main/srm-margin-check.user.js
+// @updateURL    https://raw.githubusercontent.com/ImpulseSID/SRM-Margin-Check/main/srm-margin-check.user.js
 // ==/UserScript==
 
 (function() {
